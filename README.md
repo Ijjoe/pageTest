@@ -8,10 +8,11 @@
 이미지로 이루어진 MNIST train 6만장 test 3만장으로 사용하였다.
 ===
 
-2. 결과 이미지는 <br>
-![Confusion Matrix](./img/output.jpg)처럼 나왔고, <br>
-전체 설계도는 <br>
-![Vision Transformer Architecture](./img/architecture.jpg)로 만들었다. <br>
+
+|---|내용|
+|결과 |![Confusion Matrix](./img/output.jpg)|
+|전체설계도|Transformer Architecture](./img/architecture.jpg)|
+
 
 <br><br>
 ===
